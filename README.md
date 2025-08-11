@@ -113,21 +113,22 @@ Gmail: matheusfeliciano0904@gmail.com
 ### 😎 Estatísticas
 
 <p>
-<img 
-  align="left"
-  alt="GitHub Stats"   
-  height="200" 
-  style="padding-right: 10px;"   
-  src="https://github-readme-stats.vercel.app/api?username=MatheusFeliciano0904&show_icons=true&theme=tokyonight&custom_title=Matheus_Victor&include_all_commits=true&locale=pt-br&card_width=450" 
-/>
+<p>
+  <img 
+    align="left"
+    alt="GitHub Stats"   
+    height="200" 
+    style="padding-right: 10px;"   
+    src="https://github-readme-stats.vercel.app/api?username=MatheusFeliciano0904&show_icons=true&theme=tokyonight" 
+  />
 
-
-<img 
+  <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Top Languages" 
     height="200"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFeliciano0904&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFeliciano0904&theme=tokyonight&layout=compact" 
   />
+</p>
 
 </p>
