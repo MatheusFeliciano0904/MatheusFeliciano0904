@@ -8,7 +8,6 @@ Experiência em ETL, criação de dashboards e automações com Power BI e Pytho
 
 Atualmente trabalhando na Jellyfish Brasil, como Business Intelligence Intern, atuando na análise e visualização de dados para suporte à tomada de decisão estratégica.
 
-Atuei na Petrobras Transporte S.A, como Estagiário em Dados, tratando dados e desenvolvendo soluções analíticas.  
 
 Portfólio: [DashBoards](https://sites.google.com/view/portifoliojupi)
 <br/>
