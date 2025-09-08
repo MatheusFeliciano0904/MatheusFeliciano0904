@@ -3,6 +3,7 @@
 **Analista de Dados | Python | SQL | Power BI**  
 
 Graduando em Análise e Desenvolvimento de Sistemas pelo IFSP.  
+
 Experiência em ETL, criação de dashboards e automações com Power BI e Python na Petrobras Transporte S.A.
 
 Atualmente trabalhando na Jellyfish Brasil, como Business Intelligence Intern, atuando na análise e visualização de dados para suporte à tomada de decisão estratégica.
