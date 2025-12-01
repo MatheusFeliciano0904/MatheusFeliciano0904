@@ -63,11 +63,8 @@ Gmail: matheusfeliciano0904@gmail.com
     />
   </span>
 
-  <span style="display: inline-block;">
-    <img 
-      height="200"
-      style="border-radius: 10px;"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFeliciano0904&theme=tokyonight"
-    />
-  </span>
-</p>
+<img 
+  height="200"
+  style="border-radius: 12px;"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFeliciano0904&theme=tokyonight"
+/>
