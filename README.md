@@ -54,19 +54,19 @@ Gmail: matheusfeliciano0904@gmail.com
 
 ### 📊 GitHub Stats
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img 
         height="200" 
-        style="border-radius: 10px;"
+        style="border-radius: 10px; border: none;"
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFeliciano0904&theme=tokyonight" 
       />
     </td>
-    <td>
+    <td style="border: none; padding-left: 20px;">
       <img 
         height="200"
-        style="border-radius: 10px;" 
+        style="border-radius: 10px; border: none;" 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFeliciano0904&theme=tokyonight" 
       />
     </td>
