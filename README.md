@@ -54,7 +54,7 @@ Gmail: matheusfeliciano0904@gmail.com
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
   <img 
     alt="GitHub Stats"
@@ -64,15 +64,13 @@ Gmail: matheusfeliciano0904@gmail.com
   />
 
   <img 
-    alt="Most Used Languages"
+    alt="Top Languages by Repo"
     height="200"
     style="border-radius: 10px;" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFeliciano0904&theme=tokyonight" 
   />
 
 </div>
-
-
 
 
 
