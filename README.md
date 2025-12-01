@@ -109,5 +109,37 @@ Gmail: matheusfeliciano0904@gmail.com
 />
 
 
+<div style="display: flex; align-items: center; gap: 40px;">
+
+  <!-- Ícones de Linguagens -->
+  <div style="display: flex; flex-direction: column;">
+    <h2>🤖 Linguagens e Tecnologias</h2>
+
+    <div style="display: flex; gap: 15px; margin-top: 10px;">
+
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+    </div>
+  </div>
+
+  <!-- Card GitHub Stats -->
+  <img 
+    alt="Top Languages" 
+    height="220"
+    style="border-radius: 12px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFeliciano0904&theme=tokyonight&layout=compact" 
+  />
+
+</div>
+
+
+
 <p> <p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MatheusFeliciano0904&show_icons=true&theme=tokyonight" /> <img align="left" alt="Top Languages" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFeliciano0904&theme=tokyonight&layout=compact" /> </p> </p>
 
