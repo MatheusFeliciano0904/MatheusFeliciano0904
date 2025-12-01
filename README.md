@@ -56,12 +56,11 @@ Gmail: matheusfeliciano0904@gmail.com
 
 <div style="display: flex; gap: 20px; align-items: center;">
 
-  <img 
-    alt="GitHub Stats"   
-    height="200" 
-    style="border-radius: 10px;"   
-    src="https://github-readme-stats.vercel.app/api?username=MatheusFeliciano0904&show_icons=true&theme=tokyonight" 
-  />
+<img 
+  height="200" 
+  style="border-radius: 10px;"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFeliciano0904&theme=tokyonight" 
+/>
 
   <img 
     alt="Top Languages" 
