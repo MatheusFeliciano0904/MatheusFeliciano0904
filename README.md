@@ -54,24 +54,20 @@ Gmail: matheusfeliciano0904@gmail.com
 
 ### 📊 GitHub Stats
 
-<div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 25px;
-    flex-wrap: wrap;
-">
+<p align="center">
+  <span style="display: inline-block; margin-right: 20px;">
+    <img 
+      height="200"
+      style="border-radius: 10px;"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFeliciano0904&theme=tokyonight"
+    />
+  </span>
 
-  <img 
-    height="200"
-    style="border-radius: 10px;"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFeliciano0904&theme=tokyonight"
-  />
-
-  <img 
-    height="200"
-    style="border-radius: 10px;"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFeliciano0904&theme=tokyonight"
-  />
-
-</div>
+  <span style="display: inline-block;">
+    <img 
+      height="200"
+      style="border-radius: 10px;"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFeliciano0904&theme=tokyonight"
+    />
+  </span>
+</p>
