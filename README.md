@@ -34,7 +34,6 @@ Gmail: matheusfeliciano0904@gmail.com
 
 ---
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
